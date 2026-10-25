@@ -1,11 +1,13 @@
 {
   "latest": 1297,
+  "race_latest": 1297,
   "snapshots": [
     {
       "date": "2026-10-25T20:00:00+00:00",
       "final": false,
       "meeting_key": 1297,
       "meeting_name": "United States Grand Prix",
+      "type": "briefing",
       "year": 2026
     },
     {
@@ -13,7 +15,16 @@
       "final": true,
       "meeting_key": 1221,
       "meeting_name": "Qatar Grand Prix",
+      "type": "briefing",
       "year": 2023
+    },
+    {
+      "date": null,
+      "final": false,
+      "meeting_key": 1297,
+      "meeting_name": null,
+      "type": "race_centre",
+      "year": null
     }
   ]
 }

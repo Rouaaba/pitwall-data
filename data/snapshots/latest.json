@@ -625,7 +625,7 @@
     "wind_speed": 2.3
   },
   "final": false,
-  "generated_at": "2026-10-25T13:16:24.475512+00:00",
+  "generated_at": "2026-10-25T13:24:18.323215+00:00",
   "meeting": {
     "circuit": "Austin",
     "country": "United States",
@@ -812,6 +812,250 @@
       "year": 2023
     }
   ],
+  "qualifying_result": [
+    {
+      "driver": "ANT",
+      "position": 1,
+      "q_times": [
+        95.39,
+        94.278,
+        94.035
+      ],
+      "team": "Mercedes",
+      "team_colour": "#00D7B6"
+    },
+    {
+      "driver": "VER",
+      "position": 2,
+      "q_times": [
+        95.215,
+        94.471,
+        94.214
+      ],
+      "team": "Red Bull Racing",
+      "team_colour": "#4781D7"
+    },
+    {
+      "driver": "HAD",
+      "position": 3,
+      "q_times": [
+        95.286,
+        94.887,
+        94.25
+      ],
+      "team": "Red Bull Racing",
+      "team_colour": "#4781D7"
+    },
+    {
+      "driver": "LEC",
+      "position": 4,
+      "q_times": [
+        95.2,
+        94.198,
+        94.267
+      ],
+      "team": "Ferrari",
+      "team_colour": "#ED1131"
+    },
+    {
+      "driver": "HAM",
+      "position": 5,
+      "q_times": [
+        95.355,
+        94.833,
+        94.311
+      ],
+      "team": "Ferrari",
+      "team_colour": "#ED1131"
+    },
+    {
+      "driver": "RUS",
+      "position": 6,
+      "q_times": [
+        95.73,
+        94.305,
+        94.476
+      ],
+      "team": "Mercedes",
+      "team_colour": "#00D7B6"
+    },
+    {
+      "driver": "PIA",
+      "position": 7,
+      "q_times": [
+        95.842,
+        94.818,
+        94.803
+      ],
+      "team": "McLaren",
+      "team_colour": "#F47600"
+    },
+    {
+      "driver": "NOR",
+      "position": 8,
+      "q_times": [
+        95.029,
+        94.539,
+        95.049
+      ],
+      "team": "McLaren",
+      "team_colour": "#F47600"
+    },
+    {
+      "driver": "LIN",
+      "position": 9,
+      "q_times": [
+        95.755,
+        94.95,
+        96.049
+      ],
+      "team": "Racing Bulls",
+      "team_colour": "#6C98FF"
+    },
+    {
+      "driver": "LAW",
+      "position": 10,
+      "q_times": [
+        95.662,
+        95.058,
+        null
+      ],
+      "team": "Racing Bulls",
+      "team_colour": "#6C98FF"
+    },
+    {
+      "driver": "GAS",
+      "position": 11,
+      "q_times": [
+        95.969,
+        95.08,
+        null
+      ],
+      "team": "Alpine",
+      "team_colour": "#00A1E8"
+    },
+    {
+      "driver": "HUL",
+      "position": 12,
+      "q_times": [
+        95.704,
+        95.158,
+        null
+      ],
+      "team": "Audi",
+      "team_colour": "#F50537"
+    },
+    {
+      "driver": "BOR",
+      "position": 13,
+      "q_times": [
+        95.632,
+        95.691,
+        null
+      ],
+      "team": "Audi",
+      "team_colour": "#F50537"
+    },
+    {
+      "driver": "COL",
+      "position": 14,
+      "q_times": [
+        95.898,
+        95.722,
+        null
+      ],
+      "team": "Alpine",
+      "team_colour": "#00A1E8"
+    },
+    {
+      "driver": "ALO",
+      "position": 15,
+      "q_times": [
+        96.24,
+        95.818,
+        null
+      ],
+      "team": "Aston Martin",
+      "team_colour": "#229971"
+    },
+    {
+      "driver": "BEA",
+      "position": 16,
+      "q_times": [
+        96.175,
+        96.031,
+        null
+      ],
+      "team": "Haas F1 Team",
+      "team_colour": "#9C9FA2"
+    },
+    {
+      "driver": "OCO",
+      "position": 17,
+      "q_times": [
+        96.531,
+        null,
+        null
+      ],
+      "team": "Haas F1 Team",
+      "team_colour": "#9C9FA2"
+    },
+    {
+      "driver": "STR",
+      "position": 18,
+      "q_times": [
+        96.677,
+        null,
+        null
+      ],
+      "team": "Aston Martin",
+      "team_colour": "#229971"
+    },
+    {
+      "driver": "SAI",
+      "position": 19,
+      "q_times": [
+        96.77,
+        null,
+        null
+      ],
+      "team": "Williams",
+      "team_colour": "#1868DB"
+    },
+    {
+      "driver": "ALB",
+      "position": 20,
+      "q_times": [
+        96.967,
+        null,
+        null
+      ],
+      "team": "Williams",
+      "team_colour": "#1868DB"
+    },
+    {
+      "driver": "PER",
+      "position": 21,
+      "q_times": [
+        97.433,
+        null,
+        null
+      ],
+      "team": "Cadillac",
+      "team_colour": "#909090"
+    },
+    {
+      "driver": "BOT",
+      "position": 22,
+      "q_times": [
+        97.523,
+        null,
+        null
+      ],
+      "team": "Cadillac",
+      "team_colour": "#909090"
+    }
+  ],
   "risk_by_year": [
     {
       "red_flags": 0,
@@ -838,106 +1082,26 @@
   "schema_version": 2,
   "session_pace": [
     {
-      "best_lap_seconds": 97.523,
-      "driver": "BOT",
-      "session": "Qualifying",
-      "session_start": "2026-10-24T21:00:00+00:00",
-      "team": "Cadillac",
-      "team_colour": "#909090"
+      "best_lap_seconds": 96.513,
+      "driver": "ANT",
+      "session": "Practice 1",
+      "session_start": "2026-10-23T17:30:00+00:00",
+      "team": "Mercedes",
+      "team_colour": "#00D7B6"
     },
     {
-      "best_lap_seconds": 97.433,
-      "driver": "PER",
-      "session": "Qualifying",
-      "session_start": "2026-10-24T21:00:00+00:00",
-      "team": "Cadillac",
-      "team_colour": "#909090"
+      "best_lap_seconds": 95.333,
+      "driver": "ANT",
+      "session": "Practice 2",
+      "session_start": "2026-10-23T21:00:00+00:00",
+      "team": "Mercedes",
+      "team_colour": "#00D7B6"
     },
     {
-      "best_lap_seconds": 95.592,
-      "driver": "BEA",
-      "session": "Qualifying",
-      "session_start": "2026-10-24T21:00:00+00:00",
-      "team": "Haas F1 Team",
-      "team_colour": "#9C9FA2"
-    },
-    {
-      "best_lap_seconds": 96.677,
-      "driver": "STR",
-      "session": "Qualifying",
-      "session_start": "2026-10-24T21:00:00+00:00",
-      "team": "Aston Martin",
-      "team_colour": "#229971"
-    },
-    {
-      "best_lap_seconds": 96.967,
-      "driver": "ALB",
-      "session": "Qualifying",
-      "session_start": "2026-10-24T21:00:00+00:00",
-      "team": "Williams",
-      "team_colour": "#1868DB"
-    },
-    {
-      "best_lap_seconds": 96.77,
-      "driver": "SAI",
-      "session": "Qualifying",
-      "session_start": "2026-10-24T21:00:00+00:00",
-      "team": "Williams",
-      "team_colour": "#1868DB"
-    },
-    {
-      "best_lap_seconds": 95.818,
-      "driver": "ALO",
-      "session": "Qualifying",
-      "session_start": "2026-10-24T21:00:00+00:00",
-      "team": "Aston Martin",
-      "team_colour": "#229971"
-    },
-    {
-      "best_lap_seconds": 96.531,
-      "driver": "OCO",
-      "session": "Qualifying",
-      "session_start": "2026-10-24T21:00:00+00:00",
-      "team": "Haas F1 Team",
-      "team_colour": "#9C9FA2"
-    },
-    {
-      "best_lap_seconds": 94.198,
-      "driver": "LEC",
-      "session": "Qualifying",
-      "session_start": "2026-10-24T21:00:00+00:00",
-      "team": "Ferrari",
-      "team_colour": "#ED1131"
-    },
-    {
-      "best_lap_seconds": 94.311,
-      "driver": "HAM",
-      "session": "Qualifying",
-      "session_start": "2026-10-24T21:00:00+00:00",
-      "team": "Ferrari",
-      "team_colour": "#ED1131"
-    },
-    {
-      "best_lap_seconds": 94.803,
-      "driver": "PIA",
-      "session": "Qualifying",
-      "session_start": "2026-10-24T21:00:00+00:00",
-      "team": "McLaren",
-      "team_colour": "#F47600"
-    },
-    {
-      "best_lap_seconds": 94.379,
-      "driver": "NOR",
-      "session": "Qualifying",
-      "session_start": "2026-10-24T21:00:00+00:00",
-      "team": "McLaren",
-      "team_colour": "#F47600"
-    },
-    {
-      "best_lap_seconds": 94.305,
-      "driver": "RUS",
-      "session": "Qualifying",
-      "session_start": "2026-10-24T21:00:00+00:00",
+      "best_lap_seconds": 95.015,
+      "driver": "ANT",
+      "session": "Practice 3",
+      "session_start": "2026-10-24T17:30:00+00:00",
       "team": "Mercedes",
       "team_colour": "#00D7B6"
     },
@@ -950,10 +1114,58 @@
       "team_colour": "#00D7B6"
     },
     {
+      "best_lap_seconds": 95.86,
+      "driver": "VER",
+      "session": "Practice 1",
+      "session_start": "2026-10-23T17:30:00+00:00",
+      "team": "Red Bull Racing",
+      "team_colour": "#4781D7"
+    },
+    {
+      "best_lap_seconds": 95.48,
+      "driver": "VER",
+      "session": "Practice 2",
+      "session_start": "2026-10-23T21:00:00+00:00",
+      "team": "Red Bull Racing",
+      "team_colour": "#4781D7"
+    },
+    {
+      "best_lap_seconds": 95.061,
+      "driver": "VER",
+      "session": "Practice 3",
+      "session_start": "2026-10-24T17:30:00+00:00",
+      "team": "Red Bull Racing",
+      "team_colour": "#4781D7"
+    },
+    {
       "best_lap_seconds": 94.214,
       "driver": "VER",
       "session": "Qualifying",
       "session_start": "2026-10-24T21:00:00+00:00",
+      "team": "Red Bull Racing",
+      "team_colour": "#4781D7"
+    },
+    {
+      "best_lap_seconds": 96.49,
+      "driver": "HAD",
+      "session": "Practice 1",
+      "session_start": "2026-10-23T17:30:00+00:00",
+      "team": "Red Bull Racing",
+      "team_colour": "#4781D7"
+    },
+    {
+      "best_lap_seconds": 96.079,
+      "driver": "HAD",
+      "session": "Practice 2",
+      "session_start": "2026-10-23T21:00:00+00:00",
+      "team": "Red Bull Racing",
+      "team_colour": "#4781D7"
+    },
+    {
+      "best_lap_seconds": 95.93,
+      "driver": "HAD",
+      "session": "Practice 3",
+      "session_start": "2026-10-24T17:30:00+00:00",
       "team": "Red Bull Racing",
       "team_colour": "#4781D7"
     },
@@ -966,276 +1178,12 @@
       "team_colour": "#4781D7"
     },
     {
-      "best_lap_seconds": 95.158,
-      "driver": "HUL",
-      "session": "Qualifying",
-      "session_start": "2026-10-24T21:00:00+00:00",
-      "team": "Audi",
-      "team_colour": "#F50537"
-    },
-    {
-      "best_lap_seconds": 95.722,
-      "driver": "COL",
-      "session": "Qualifying",
-      "session_start": "2026-10-24T21:00:00+00:00",
-      "team": "Alpine",
-      "team_colour": "#00A1E8"
-    },
-    {
-      "best_lap_seconds": 95.08,
-      "driver": "GAS",
-      "session": "Qualifying",
-      "session_start": "2026-10-24T21:00:00+00:00",
-      "team": "Alpine",
-      "team_colour": "#00A1E8"
-    },
-    {
-      "best_lap_seconds": 95.058,
-      "driver": "LAW",
-      "session": "Qualifying",
-      "session_start": "2026-10-24T21:00:00+00:00",
-      "team": "Racing Bulls",
-      "team_colour": "#6C98FF"
-    },
-    {
-      "best_lap_seconds": 94.95,
-      "driver": "LIN",
-      "session": "Qualifying",
-      "session_start": "2026-10-24T21:00:00+00:00",
-      "team": "Racing Bulls",
-      "team_colour": "#6C98FF"
-    },
-    {
-      "best_lap_seconds": 95.632,
-      "driver": "BOR",
-      "session": "Qualifying",
-      "session_start": "2026-10-24T21:00:00+00:00",
-      "team": "Audi",
-      "team_colour": "#F50537"
-    },
-    {
-      "best_lap_seconds": 97.884,
-      "driver": "PER",
-      "session": "Practice 3",
-      "session_start": "2026-10-24T17:30:00+00:00",
-      "team": "Cadillac",
-      "team_colour": "#909090"
-    },
-    {
-      "best_lap_seconds": 96.251,
-      "driver": "COL",
-      "session": "Practice 3",
-      "session_start": "2026-10-24T17:30:00+00:00",
-      "team": "Alpine",
-      "team_colour": "#00A1E8"
-    },
-    {
-      "best_lap_seconds": 95.904,
-      "driver": "GAS",
-      "session": "Practice 3",
-      "session_start": "2026-10-24T17:30:00+00:00",
-      "team": "Alpine",
-      "team_colour": "#00A1E8"
-    },
-    {
-      "best_lap_seconds": 98.765,
-      "driver": "BOT",
-      "session": "Practice 3",
-      "session_start": "2026-10-24T17:30:00+00:00",
-      "team": "Cadillac",
-      "team_colour": "#909090"
-    },
-    {
-      "best_lap_seconds": 96.176,
-      "driver": "BOR",
-      "session": "Practice 3",
-      "session_start": "2026-10-24T17:30:00+00:00",
-      "team": "Audi",
-      "team_colour": "#F50537"
-    },
-    {
-      "best_lap_seconds": 97.325,
-      "driver": "SAI",
-      "session": "Practice 3",
-      "session_start": "2026-10-24T17:30:00+00:00",
-      "team": "Williams",
-      "team_colour": "#1868DB"
-    },
-    {
-      "best_lap_seconds": 94.893,
-      "driver": "HAM",
-      "session": "Practice 3",
-      "session_start": "2026-10-24T17:30:00+00:00",
-      "team": "Ferrari",
-      "team_colour": "#ED1131"
-    },
-    {
-      "best_lap_seconds": 95.591,
-      "driver": "HUL",
-      "session": "Practice 3",
-      "session_start": "2026-10-24T17:30:00+00:00",
-      "team": "Audi",
-      "team_colour": "#F50537"
-    },
-    {
-      "best_lap_seconds": 97.131,
-      "driver": "STR",
-      "session": "Practice 3",
-      "session_start": "2026-10-24T17:30:00+00:00",
-      "team": "Aston Martin",
-      "team_colour": "#229971"
-    },
-    {
-      "best_lap_seconds": 96.455,
-      "driver": "ALO",
-      "session": "Practice 3",
-      "session_start": "2026-10-24T17:30:00+00:00",
-      "team": "Aston Martin",
-      "team_colour": "#229971"
-    },
-    {
-      "best_lap_seconds": 96.742,
-      "driver": "OCO",
-      "session": "Practice 3",
-      "session_start": "2026-10-24T17:30:00+00:00",
-      "team": "Haas F1 Team",
-      "team_colour": "#9C9FA2"
-    },
-    {
-      "best_lap_seconds": 96.081,
-      "driver": "LIN",
-      "session": "Practice 3",
-      "session_start": "2026-10-24T17:30:00+00:00",
-      "team": "Racing Bulls",
-      "team_colour": "#6C98FF"
-    },
-    {
-      "best_lap_seconds": 97.668,
-      "driver": "ALB",
-      "session": "Practice 3",
-      "session_start": "2026-10-24T17:30:00+00:00",
-      "team": "Williams",
-      "team_colour": "#1868DB"
-    },
-    {
-      "best_lap_seconds": 95.931,
-      "driver": "LAW",
-      "session": "Practice 3",
-      "session_start": "2026-10-24T17:30:00+00:00",
-      "team": "Racing Bulls",
-      "team_colour": "#6C98FF"
-    },
-    {
-      "best_lap_seconds": 95.244,
-      "driver": "NOR",
-      "session": "Practice 3",
-      "session_start": "2026-10-24T17:30:00+00:00",
-      "team": "McLaren",
-      "team_colour": "#F47600"
-    },
-    {
-      "best_lap_seconds": 95.531,
-      "driver": "PIA",
-      "session": "Practice 3",
-      "session_start": "2026-10-24T17:30:00+00:00",
-      "team": "McLaren",
-      "team_colour": "#F47600"
-    },
-    {
-      "best_lap_seconds": 95.061,
-      "driver": "VER",
-      "session": "Practice 3",
-      "session_start": "2026-10-24T17:30:00+00:00",
-      "team": "Red Bull Racing",
-      "team_colour": "#4781D7"
-    },
-    {
-      "best_lap_seconds": 95.015,
-      "driver": "ANT",
-      "session": "Practice 3",
-      "session_start": "2026-10-24T17:30:00+00:00",
-      "team": "Mercedes",
-      "team_colour": "#00D7B6"
-    },
-    {
-      "best_lap_seconds": 96.235,
-      "driver": "BEA",
-      "session": "Practice 3",
-      "session_start": "2026-10-24T17:30:00+00:00",
-      "team": "Haas F1 Team",
-      "team_colour": "#9C9FA2"
-    },
-    {
-      "best_lap_seconds": 94.81,
+      "best_lap_seconds": 96.052,
       "driver": "LEC",
-      "session": "Practice 3",
-      "session_start": "2026-10-24T17:30:00+00:00",
+      "session": "Practice 1",
+      "session_start": "2026-10-23T17:30:00+00:00",
       "team": "Ferrari",
       "team_colour": "#ED1131"
-    },
-    {
-      "best_lap_seconds": 95.381,
-      "driver": "RUS",
-      "session": "Practice 3",
-      "session_start": "2026-10-24T17:30:00+00:00",
-      "team": "Mercedes",
-      "team_colour": "#00D7B6"
-    },
-    {
-      "best_lap_seconds": 95.93,
-      "driver": "HAD",
-      "session": "Practice 3",
-      "session_start": "2026-10-24T17:30:00+00:00",
-      "team": "Red Bull Racing",
-      "team_colour": "#4781D7"
-    },
-    {
-      "best_lap_seconds": 96.84,
-      "driver": "GAS",
-      "session": "Practice 2",
-      "session_start": "2026-10-23T21:00:00+00:00",
-      "team": "Alpine",
-      "team_colour": "#00A1E8"
-    },
-    {
-      "best_lap_seconds": 95.48,
-      "driver": "VER",
-      "session": "Practice 2",
-      "session_start": "2026-10-23T21:00:00+00:00",
-      "team": "Red Bull Racing",
-      "team_colour": "#4781D7"
-    },
-    {
-      "best_lap_seconds": 96.734,
-      "driver": "LIN",
-      "session": "Practice 2",
-      "session_start": "2026-10-23T21:00:00+00:00",
-      "team": "Racing Bulls",
-      "team_colour": "#6C98FF"
-    },
-    {
-      "best_lap_seconds": 96.331,
-      "driver": "LAW",
-      "session": "Practice 2",
-      "session_start": "2026-10-23T21:00:00+00:00",
-      "team": "Racing Bulls",
-      "team_colour": "#6C98FF"
-    },
-    {
-      "best_lap_seconds": 96.536,
-      "driver": "BEA",
-      "session": "Practice 2",
-      "session_start": "2026-10-23T21:00:00+00:00",
-      "team": "Haas F1 Team",
-      "team_colour": "#9C9FA2"
-    },
-    {
-      "best_lap_seconds": 98.035,
-      "driver": "ALB",
-      "session": "Practice 2",
-      "session_start": "2026-10-23T21:00:00+00:00",
-      "team": "Williams",
-      "team_colour": "#1868DB"
     },
     {
       "best_lap_seconds": 95.291,
@@ -1246,36 +1194,28 @@
       "team_colour": "#ED1131"
     },
     {
-      "best_lap_seconds": 97.111,
-      "driver": "OCO",
-      "session": "Practice 2",
-      "session_start": "2026-10-23T21:00:00+00:00",
-      "team": "Haas F1 Team",
-      "team_colour": "#9C9FA2"
+      "best_lap_seconds": 94.81,
+      "driver": "LEC",
+      "session": "Practice 3",
+      "session_start": "2026-10-24T17:30:00+00:00",
+      "team": "Ferrari",
+      "team_colour": "#ED1131"
     },
     {
-      "best_lap_seconds": 96.832,
-      "driver": "BOR",
-      "session": "Practice 2",
-      "session_start": "2026-10-23T21:00:00+00:00",
-      "team": "Audi",
-      "team_colour": "#F50537"
+      "best_lap_seconds": 94.198,
+      "driver": "LEC",
+      "session": "Qualifying",
+      "session_start": "2026-10-24T21:00:00+00:00",
+      "team": "Ferrari",
+      "team_colour": "#ED1131"
     },
     {
-      "best_lap_seconds": 97.269,
-      "driver": "STR",
-      "session": "Practice 2",
-      "session_start": "2026-10-23T21:00:00+00:00",
-      "team": "Aston Martin",
-      "team_colour": "#229971"
-    },
-    {
-      "best_lap_seconds": 97.201,
-      "driver": "COL",
-      "session": "Practice 2",
-      "session_start": "2026-10-23T21:00:00+00:00",
-      "team": "Alpine",
-      "team_colour": "#00A1E8"
+      "best_lap_seconds": 96.555,
+      "driver": "HAM",
+      "session": "Practice 1",
+      "session_start": "2026-10-23T17:30:00+00:00",
+      "team": "Ferrari",
+      "team_colour": "#ED1131"
     },
     {
       "best_lap_seconds": 95.906,
@@ -1286,50 +1226,26 @@
       "team_colour": "#ED1131"
     },
     {
-      "best_lap_seconds": 96.029,
-      "driver": "PIA",
-      "session": "Practice 2",
-      "session_start": "2026-10-23T21:00:00+00:00",
-      "team": "McLaren",
-      "team_colour": "#F47600"
+      "best_lap_seconds": 94.893,
+      "driver": "HAM",
+      "session": "Practice 3",
+      "session_start": "2026-10-24T17:30:00+00:00",
+      "team": "Ferrari",
+      "team_colour": "#ED1131"
     },
     {
-      "best_lap_seconds": 97.235,
-      "driver": "ALO",
-      "session": "Practice 2",
-      "session_start": "2026-10-23T21:00:00+00:00",
-      "team": "Aston Martin",
-      "team_colour": "#229971"
+      "best_lap_seconds": 94.311,
+      "driver": "HAM",
+      "session": "Qualifying",
+      "session_start": "2026-10-24T21:00:00+00:00",
+      "team": "Ferrari",
+      "team_colour": "#ED1131"
     },
     {
-      "best_lap_seconds": 97.701,
-      "driver": "SAI",
-      "session": "Practice 2",
-      "session_start": "2026-10-23T21:00:00+00:00",
-      "team": "Williams",
-      "team_colour": "#1868DB"
-    },
-    {
-      "best_lap_seconds": 98.422,
-      "driver": "BOT",
-      "session": "Practice 2",
-      "session_start": "2026-10-23T21:00:00+00:00",
-      "team": "Cadillac",
-      "team_colour": "#909090"
-    },
-    {
-      "best_lap_seconds": 96.373,
-      "driver": "NOR",
-      "session": "Practice 2",
-      "session_start": "2026-10-23T21:00:00+00:00",
-      "team": "McLaren",
-      "team_colour": "#F47600"
-    },
-    {
-      "best_lap_seconds": 95.333,
-      "driver": "ANT",
-      "session": "Practice 2",
-      "session_start": "2026-10-23T21:00:00+00:00",
+      "best_lap_seconds": 96.378,
+      "driver": "RUS",
+      "session": "Practice 1",
+      "session_start": "2026-10-23T17:30:00+00:00",
       "team": "Mercedes",
       "team_colour": "#00D7B6"
     },
@@ -1342,116 +1258,20 @@
       "team_colour": "#00D7B6"
     },
     {
-      "best_lap_seconds": 97.04,
-      "driver": "HUL",
-      "session": "Practice 2",
-      "session_start": "2026-10-23T21:00:00+00:00",
-      "team": "Audi",
-      "team_colour": "#F50537"
+      "best_lap_seconds": 95.381,
+      "driver": "RUS",
+      "session": "Practice 3",
+      "session_start": "2026-10-24T17:30:00+00:00",
+      "team": "Mercedes",
+      "team_colour": "#00D7B6"
     },
     {
-      "best_lap_seconds": 96.079,
-      "driver": "HAD",
-      "session": "Practice 2",
-      "session_start": "2026-10-23T21:00:00+00:00",
-      "team": "Red Bull Racing",
-      "team_colour": "#4781D7"
-    },
-    {
-      "best_lap_seconds": 98.934,
-      "driver": "PER",
-      "session": "Practice 2",
-      "session_start": "2026-10-23T21:00:00+00:00",
-      "team": "Cadillac",
-      "team_colour": "#909090"
-    },
-    {
-      "best_lap_seconds": 98.846,
-      "driver": "SAI",
-      "session": "Practice 1",
-      "session_start": "2026-10-23T17:30:00+00:00",
-      "team": "Williams",
-      "team_colour": "#1868DB"
-    },
-    {
-      "best_lap_seconds": 98.121,
-      "driver": "COL",
-      "session": "Practice 1",
-      "session_start": "2026-10-23T17:30:00+00:00",
-      "team": "Alpine",
-      "team_colour": "#00A1E8"
-    },
-    {
-      "best_lap_seconds": 97.591,
-      "driver": "BEA",
-      "session": "Practice 1",
-      "session_start": "2026-10-23T17:30:00+00:00",
-      "team": "Haas F1 Team",
-      "team_colour": "#9C9FA2"
-    },
-    {
-      "best_lap_seconds": 98.875,
-      "driver": "ALB",
-      "session": "Practice 1",
-      "session_start": "2026-10-23T17:30:00+00:00",
-      "team": "Williams",
-      "team_colour": "#1868DB"
-    },
-    {
-      "best_lap_seconds": 97.957,
-      "driver": "HUL",
-      "session": "Practice 1",
-      "session_start": "2026-10-23T17:30:00+00:00",
-      "team": "Audi",
-      "team_colour": "#F50537"
-    },
-    {
-      "best_lap_seconds": 97.856,
-      "driver": "OCO",
-      "session": "Practice 1",
-      "session_start": "2026-10-23T17:30:00+00:00",
-      "team": "Haas F1 Team",
-      "team_colour": "#9C9FA2"
-    },
-    {
-      "best_lap_seconds": 97.048,
-      "driver": "LAW",
-      "session": "Practice 1",
-      "session_start": "2026-10-23T17:30:00+00:00",
-      "team": "Racing Bulls",
-      "team_colour": "#6C98FF"
-    },
-    {
-      "best_lap_seconds": 95.86,
-      "driver": "VER",
-      "session": "Practice 1",
-      "session_start": "2026-10-23T17:30:00+00:00",
-      "team": "Red Bull Racing",
-      "team_colour": "#4781D7"
-    },
-    {
-      "best_lap_seconds": 96.052,
-      "driver": "LEC",
-      "session": "Practice 1",
-      "session_start": "2026-10-23T17:30:00+00:00",
-      "team": "Ferrari",
-      "team_colour": "#ED1131"
-    },
-    {
-      "best_lap_seconds": 99.053,
-      "driver": "BOT",
-      "session": "Practice 1",
-      "session_start": "2026-10-23T17:30:00+00:00",
-      "team": "Cadillac",
-      "team_colour": "#909090"
-    },
-    {
-      "best_lap_seconds": 99.979,
-      "driver": "HER",
-      "session": "Practice 1",
-      "session_start": "2026-10-23T17:30:00+00:00",
-      "team": "Cadillac",
-      "team_colour": "#909090"
+      "best_lap_seconds": 94.305,
+      "driver": "RUS",
+      "session": "Qualifying",
+      "session_start": "2026-10-24T21:00:00+00:00",
+      "team": "Mercedes",
+      "team_colour": "#00D7B6"
     },
     {
       "best_lap_seconds": 96.786,
@@ -1462,52 +1282,28 @@
       "team_colour": "#F47600"
     },
     {
-      "best_lap_seconds": 97.783,
-      "driver": "STR",
-      "session": "Practice 1",
-      "session_start": "2026-10-23T17:30:00+00:00",
-      "team": "Aston Martin",
-      "team_colour": "#229971"
+      "best_lap_seconds": 96.029,
+      "driver": "PIA",
+      "session": "Practice 2",
+      "session_start": "2026-10-23T21:00:00+00:00",
+      "team": "McLaren",
+      "team_colour": "#F47600"
     },
     {
-      "best_lap_seconds": 96.49,
-      "driver": "HAD",
-      "session": "Practice 1",
-      "session_start": "2026-10-23T17:30:00+00:00",
-      "team": "Red Bull Racing",
-      "team_colour": "#4781D7"
+      "best_lap_seconds": 95.531,
+      "driver": "PIA",
+      "session": "Practice 3",
+      "session_start": "2026-10-24T17:30:00+00:00",
+      "team": "McLaren",
+      "team_colour": "#F47600"
     },
     {
-      "best_lap_seconds": 97.063,
-      "driver": "LIN",
-      "session": "Practice 1",
-      "session_start": "2026-10-23T17:30:00+00:00",
-      "team": "Racing Bulls",
-      "team_colour": "#6C98FF"
-    },
-    {
-      "best_lap_seconds": 96.513,
-      "driver": "ANT",
-      "session": "Practice 1",
-      "session_start": "2026-10-23T17:30:00+00:00",
-      "team": "Mercedes",
-      "team_colour": "#00D7B6"
-    },
-    {
-      "best_lap_seconds": 96.378,
-      "driver": "RUS",
-      "session": "Practice 1",
-      "session_start": "2026-10-23T17:30:00+00:00",
-      "team": "Mercedes",
-      "team_colour": "#00D7B6"
-    },
-    {
-      "best_lap_seconds": 97.688,
-      "driver": "ALO",
-      "session": "Practice 1",
-      "session_start": "2026-10-23T17:30:00+00:00",
-      "team": "Aston Martin",
-      "team_colour": "#229971"
+      "best_lap_seconds": 94.803,
+      "driver": "PIA",
+      "session": "Qualifying",
+      "session_start": "2026-10-24T21:00:00+00:00",
+      "team": "McLaren",
+      "team_colour": "#F47600"
     },
     {
       "best_lap_seconds": 96.297,
@@ -1518,12 +1314,92 @@
       "team_colour": "#F47600"
     },
     {
-      "best_lap_seconds": 96.555,
-      "driver": "HAM",
+      "best_lap_seconds": 96.373,
+      "driver": "NOR",
+      "session": "Practice 2",
+      "session_start": "2026-10-23T21:00:00+00:00",
+      "team": "McLaren",
+      "team_colour": "#F47600"
+    },
+    {
+      "best_lap_seconds": 95.244,
+      "driver": "NOR",
+      "session": "Practice 3",
+      "session_start": "2026-10-24T17:30:00+00:00",
+      "team": "McLaren",
+      "team_colour": "#F47600"
+    },
+    {
+      "best_lap_seconds": 94.539,
+      "driver": "NOR",
+      "session": "Qualifying",
+      "session_start": "2026-10-24T21:00:00+00:00",
+      "team": "McLaren",
+      "team_colour": "#F47600"
+    },
+    {
+      "best_lap_seconds": 97.063,
+      "driver": "LIN",
       "session": "Practice 1",
       "session_start": "2026-10-23T17:30:00+00:00",
-      "team": "Ferrari",
-      "team_colour": "#ED1131"
+      "team": "Racing Bulls",
+      "team_colour": "#6C98FF"
+    },
+    {
+      "best_lap_seconds": 96.734,
+      "driver": "LIN",
+      "session": "Practice 2",
+      "session_start": "2026-10-23T21:00:00+00:00",
+      "team": "Racing Bulls",
+      "team_colour": "#6C98FF"
+    },
+    {
+      "best_lap_seconds": 96.081,
+      "driver": "LIN",
+      "session": "Practice 3",
+      "session_start": "2026-10-24T17:30:00+00:00",
+      "team": "Racing Bulls",
+      "team_colour": "#6C98FF"
+    },
+    {
+      "best_lap_seconds": 94.95,
+      "driver": "LIN",
+      "session": "Qualifying",
+      "session_start": "2026-10-24T21:00:00+00:00",
+      "team": "Racing Bulls",
+      "team_colour": "#6C98FF"
+    },
+    {
+      "best_lap_seconds": 97.048,
+      "driver": "LAW",
+      "session": "Practice 1",
+      "session_start": "2026-10-23T17:30:00+00:00",
+      "team": "Racing Bulls",
+      "team_colour": "#6C98FF"
+    },
+    {
+      "best_lap_seconds": 96.331,
+      "driver": "LAW",
+      "session": "Practice 2",
+      "session_start": "2026-10-23T21:00:00+00:00",
+      "team": "Racing Bulls",
+      "team_colour": "#6C98FF"
+    },
+    {
+      "best_lap_seconds": 95.931,
+      "driver": "LAW",
+      "session": "Practice 3",
+      "session_start": "2026-10-24T17:30:00+00:00",
+      "team": "Racing Bulls",
+      "team_colour": "#6C98FF"
+    },
+    {
+      "best_lap_seconds": 95.058,
+      "driver": "LAW",
+      "session": "Qualifying",
+      "session_start": "2026-10-24T21:00:00+00:00",
+      "team": "Racing Bulls",
+      "team_colour": "#6C98FF"
     },
     {
       "best_lap_seconds": 97.801,
@@ -1534,12 +1410,380 @@
       "team_colour": "#00A1E8"
     },
     {
+      "best_lap_seconds": 96.84,
+      "driver": "GAS",
+      "session": "Practice 2",
+      "session_start": "2026-10-23T21:00:00+00:00",
+      "team": "Alpine",
+      "team_colour": "#00A1E8"
+    },
+    {
+      "best_lap_seconds": 95.904,
+      "driver": "GAS",
+      "session": "Practice 3",
+      "session_start": "2026-10-24T17:30:00+00:00",
+      "team": "Alpine",
+      "team_colour": "#00A1E8"
+    },
+    {
+      "best_lap_seconds": 95.08,
+      "driver": "GAS",
+      "session": "Qualifying",
+      "session_start": "2026-10-24T21:00:00+00:00",
+      "team": "Alpine",
+      "team_colour": "#00A1E8"
+    },
+    {
+      "best_lap_seconds": 97.957,
+      "driver": "HUL",
+      "session": "Practice 1",
+      "session_start": "2026-10-23T17:30:00+00:00",
+      "team": "Audi",
+      "team_colour": "#F50537"
+    },
+    {
+      "best_lap_seconds": 97.04,
+      "driver": "HUL",
+      "session": "Practice 2",
+      "session_start": "2026-10-23T21:00:00+00:00",
+      "team": "Audi",
+      "team_colour": "#F50537"
+    },
+    {
+      "best_lap_seconds": 95.591,
+      "driver": "HUL",
+      "session": "Practice 3",
+      "session_start": "2026-10-24T17:30:00+00:00",
+      "team": "Audi",
+      "team_colour": "#F50537"
+    },
+    {
+      "best_lap_seconds": 95.158,
+      "driver": "HUL",
+      "session": "Qualifying",
+      "session_start": "2026-10-24T21:00:00+00:00",
+      "team": "Audi",
+      "team_colour": "#F50537"
+    },
+    {
       "best_lap_seconds": 96.995,
       "driver": "BOR",
       "session": "Practice 1",
       "session_start": "2026-10-23T17:30:00+00:00",
       "team": "Audi",
       "team_colour": "#F50537"
+    },
+    {
+      "best_lap_seconds": 96.832,
+      "driver": "BOR",
+      "session": "Practice 2",
+      "session_start": "2026-10-23T21:00:00+00:00",
+      "team": "Audi",
+      "team_colour": "#F50537"
+    },
+    {
+      "best_lap_seconds": 96.176,
+      "driver": "BOR",
+      "session": "Practice 3",
+      "session_start": "2026-10-24T17:30:00+00:00",
+      "team": "Audi",
+      "team_colour": "#F50537"
+    },
+    {
+      "best_lap_seconds": 95.632,
+      "driver": "BOR",
+      "session": "Qualifying",
+      "session_start": "2026-10-24T21:00:00+00:00",
+      "team": "Audi",
+      "team_colour": "#F50537"
+    },
+    {
+      "best_lap_seconds": 98.121,
+      "driver": "COL",
+      "session": "Practice 1",
+      "session_start": "2026-10-23T17:30:00+00:00",
+      "team": "Alpine",
+      "team_colour": "#00A1E8"
+    },
+    {
+      "best_lap_seconds": 97.201,
+      "driver": "COL",
+      "session": "Practice 2",
+      "session_start": "2026-10-23T21:00:00+00:00",
+      "team": "Alpine",
+      "team_colour": "#00A1E8"
+    },
+    {
+      "best_lap_seconds": 96.251,
+      "driver": "COL",
+      "session": "Practice 3",
+      "session_start": "2026-10-24T17:30:00+00:00",
+      "team": "Alpine",
+      "team_colour": "#00A1E8"
+    },
+    {
+      "best_lap_seconds": 95.722,
+      "driver": "COL",
+      "session": "Qualifying",
+      "session_start": "2026-10-24T21:00:00+00:00",
+      "team": "Alpine",
+      "team_colour": "#00A1E8"
+    },
+    {
+      "best_lap_seconds": 97.688,
+      "driver": "ALO",
+      "session": "Practice 1",
+      "session_start": "2026-10-23T17:30:00+00:00",
+      "team": "Aston Martin",
+      "team_colour": "#229971"
+    },
+    {
+      "best_lap_seconds": 97.235,
+      "driver": "ALO",
+      "session": "Practice 2",
+      "session_start": "2026-10-23T21:00:00+00:00",
+      "team": "Aston Martin",
+      "team_colour": "#229971"
+    },
+    {
+      "best_lap_seconds": 96.455,
+      "driver": "ALO",
+      "session": "Practice 3",
+      "session_start": "2026-10-24T17:30:00+00:00",
+      "team": "Aston Martin",
+      "team_colour": "#229971"
+    },
+    {
+      "best_lap_seconds": 95.818,
+      "driver": "ALO",
+      "session": "Qualifying",
+      "session_start": "2026-10-24T21:00:00+00:00",
+      "team": "Aston Martin",
+      "team_colour": "#229971"
+    },
+    {
+      "best_lap_seconds": 97.591,
+      "driver": "BEA",
+      "session": "Practice 1",
+      "session_start": "2026-10-23T17:30:00+00:00",
+      "team": "Haas F1 Team",
+      "team_colour": "#9C9FA2"
+    },
+    {
+      "best_lap_seconds": 96.536,
+      "driver": "BEA",
+      "session": "Practice 2",
+      "session_start": "2026-10-23T21:00:00+00:00",
+      "team": "Haas F1 Team",
+      "team_colour": "#9C9FA2"
+    },
+    {
+      "best_lap_seconds": 96.235,
+      "driver": "BEA",
+      "session": "Practice 3",
+      "session_start": "2026-10-24T17:30:00+00:00",
+      "team": "Haas F1 Team",
+      "team_colour": "#9C9FA2"
+    },
+    {
+      "best_lap_seconds": 96.031,
+      "driver": "BEA",
+      "session": "Qualifying",
+      "session_start": "2026-10-24T21:00:00+00:00",
+      "team": "Haas F1 Team",
+      "team_colour": "#9C9FA2"
+    },
+    {
+      "best_lap_seconds": 97.856,
+      "driver": "OCO",
+      "session": "Practice 1",
+      "session_start": "2026-10-23T17:30:00+00:00",
+      "team": "Haas F1 Team",
+      "team_colour": "#9C9FA2"
+    },
+    {
+      "best_lap_seconds": 97.111,
+      "driver": "OCO",
+      "session": "Practice 2",
+      "session_start": "2026-10-23T21:00:00+00:00",
+      "team": "Haas F1 Team",
+      "team_colour": "#9C9FA2"
+    },
+    {
+      "best_lap_seconds": 96.742,
+      "driver": "OCO",
+      "session": "Practice 3",
+      "session_start": "2026-10-24T17:30:00+00:00",
+      "team": "Haas F1 Team",
+      "team_colour": "#9C9FA2"
+    },
+    {
+      "best_lap_seconds": 96.531,
+      "driver": "OCO",
+      "session": "Qualifying",
+      "session_start": "2026-10-24T21:00:00+00:00",
+      "team": "Haas F1 Team",
+      "team_colour": "#9C9FA2"
+    },
+    {
+      "best_lap_seconds": 97.783,
+      "driver": "STR",
+      "session": "Practice 1",
+      "session_start": "2026-10-23T17:30:00+00:00",
+      "team": "Aston Martin",
+      "team_colour": "#229971"
+    },
+    {
+      "best_lap_seconds": 97.269,
+      "driver": "STR",
+      "session": "Practice 2",
+      "session_start": "2026-10-23T21:00:00+00:00",
+      "team": "Aston Martin",
+      "team_colour": "#229971"
+    },
+    {
+      "best_lap_seconds": 97.131,
+      "driver": "STR",
+      "session": "Practice 3",
+      "session_start": "2026-10-24T17:30:00+00:00",
+      "team": "Aston Martin",
+      "team_colour": "#229971"
+    },
+    {
+      "best_lap_seconds": 96.677,
+      "driver": "STR",
+      "session": "Qualifying",
+      "session_start": "2026-10-24T21:00:00+00:00",
+      "team": "Aston Martin",
+      "team_colour": "#229971"
+    },
+    {
+      "best_lap_seconds": 98.846,
+      "driver": "SAI",
+      "session": "Practice 1",
+      "session_start": "2026-10-23T17:30:00+00:00",
+      "team": "Williams",
+      "team_colour": "#1868DB"
+    },
+    {
+      "best_lap_seconds": 97.701,
+      "driver": "SAI",
+      "session": "Practice 2",
+      "session_start": "2026-10-23T21:00:00+00:00",
+      "team": "Williams",
+      "team_colour": "#1868DB"
+    },
+    {
+      "best_lap_seconds": 97.325,
+      "driver": "SAI",
+      "session": "Practice 3",
+      "session_start": "2026-10-24T17:30:00+00:00",
+      "team": "Williams",
+      "team_colour": "#1868DB"
+    },
+    {
+      "best_lap_seconds": 96.77,
+      "driver": "SAI",
+      "session": "Qualifying",
+      "session_start": "2026-10-24T21:00:00+00:00",
+      "team": "Williams",
+      "team_colour": "#1868DB"
+    },
+    {
+      "best_lap_seconds": 98.875,
+      "driver": "ALB",
+      "session": "Practice 1",
+      "session_start": "2026-10-23T17:30:00+00:00",
+      "team": "Williams",
+      "team_colour": "#1868DB"
+    },
+    {
+      "best_lap_seconds": 98.035,
+      "driver": "ALB",
+      "session": "Practice 2",
+      "session_start": "2026-10-23T21:00:00+00:00",
+      "team": "Williams",
+      "team_colour": "#1868DB"
+    },
+    {
+      "best_lap_seconds": 97.668,
+      "driver": "ALB",
+      "session": "Practice 3",
+      "session_start": "2026-10-24T17:30:00+00:00",
+      "team": "Williams",
+      "team_colour": "#1868DB"
+    },
+    {
+      "best_lap_seconds": 96.967,
+      "driver": "ALB",
+      "session": "Qualifying",
+      "session_start": "2026-10-24T21:00:00+00:00",
+      "team": "Williams",
+      "team_colour": "#1868DB"
+    },
+    {
+      "best_lap_seconds": 98.934,
+      "driver": "PER",
+      "session": "Practice 2",
+      "session_start": "2026-10-23T21:00:00+00:00",
+      "team": "Cadillac",
+      "team_colour": "#909090"
+    },
+    {
+      "best_lap_seconds": 97.884,
+      "driver": "PER",
+      "session": "Practice 3",
+      "session_start": "2026-10-24T17:30:00+00:00",
+      "team": "Cadillac",
+      "team_colour": "#909090"
+    },
+    {
+      "best_lap_seconds": 97.433,
+      "driver": "PER",
+      "session": "Qualifying",
+      "session_start": "2026-10-24T21:00:00+00:00",
+      "team": "Cadillac",
+      "team_colour": "#909090"
+    },
+    {
+      "best_lap_seconds": 99.053,
+      "driver": "BOT",
+      "session": "Practice 1",
+      "session_start": "2026-10-23T17:30:00+00:00",
+      "team": "Cadillac",
+      "team_colour": "#909090"
+    },
+    {
+      "best_lap_seconds": 98.422,
+      "driver": "BOT",
+      "session": "Practice 2",
+      "session_start": "2026-10-23T21:00:00+00:00",
+      "team": "Cadillac",
+      "team_colour": "#909090"
+    },
+    {
+      "best_lap_seconds": 98.765,
+      "driver": "BOT",
+      "session": "Practice 3",
+      "session_start": "2026-10-24T17:30:00+00:00",
+      "team": "Cadillac",
+      "team_colour": "#909090"
+    },
+    {
+      "best_lap_seconds": 97.523,
+      "driver": "BOT",
+      "session": "Qualifying",
+      "session_start": "2026-10-24T21:00:00+00:00",
+      "team": "Cadillac",
+      "team_colour": "#909090"
+    },
+    {
+      "best_lap_seconds": 99.979,
+      "driver": "HER",
+      "session": "Practice 1",
+      "session_start": "2026-10-23T17:30:00+00:00",
+      "team": "Cadillac",
+      "team_colour": "#909090"
     }
   ],
   "sessions": [

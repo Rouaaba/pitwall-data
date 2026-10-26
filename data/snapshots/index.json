@@ -28,7 +28,7 @@
     },
     {
       "date": null,
-      "final": false,
+      "final": true,
       "meeting_key": 1297,
       "meeting_name": null,
       "type": "race_centre",

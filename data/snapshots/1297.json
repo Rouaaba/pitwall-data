@@ -1280,8 +1280,8 @@
     "track_temperature": 34.1,
     "wind_speed": 2.4
   },
-  "final": false,
-  "generated_at": "2026-10-26T10:11:38.806972+00:00",
+  "final": true,
+  "generated_at": "2026-10-26T10:18:28.593850+00:00",
   "meeting": {
     "circuit": "Austin",
     "country": "United States",

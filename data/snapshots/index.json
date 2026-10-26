@@ -12,7 +12,7 @@
     },
     {
       "date": "2026-10-25T20:00:00+00:00",
-      "final": false,
+      "final": true,
       "meeting_key": 1297,
       "meeting_name": "United States Grand Prix",
       "type": "briefing",

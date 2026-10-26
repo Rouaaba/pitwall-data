@@ -1,7 +1,15 @@
 {
-  "latest": 1297,
-  "race_latest": 1297,
+  "latest": 1298,
+  "race_latest": 1298,
   "snapshots": [
+    {
+      "date": "2026-11-01T20:00:00+00:00",
+      "final": false,
+      "meeting_key": 1298,
+      "meeting_name": "Mexico City Grand Prix",
+      "type": "briefing",
+      "year": 2026
+    },
     {
       "date": "2026-10-25T20:00:00+00:00",
       "final": false,
@@ -22,6 +30,14 @@
       "date": null,
       "final": false,
       "meeting_key": 1297,
+      "meeting_name": null,
+      "type": "race_centre",
+      "year": null
+    },
+    {
+      "date": null,
+      "final": false,
+      "meeting_key": 1298,
       "meeting_name": null,
       "type": "race_centre",
       "year": null
